@@ -1,1 +1,1 @@
-# LOOP-Cups-Season1-
+# LOOP-Cup-Season1
