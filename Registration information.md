@@ -1,6 +1,6 @@
 |序号Number|注册时间Registration time（Beijing Time）|队伍Team|注册状态Registration status|
 |:------------:|:----------------:|:--------:|:----------------:|
-|1|2026/2/27 00:02:06|Just Swing|等待付款Awaiting payment|
+|1|2026/2/27 00:02:06|Just Swing|注册成功registered successfully|
 |2|2026/2/27 00:02:17|Lyun Waan|等待付款Awaiting payment|
 |3|2026/2/27 00:02:43|Change The Game|等待付款Awaiting payment|
 |4|2026/2/27 00:02:48|Lynn Vision Gaming|等待付款Awaiting payment|
