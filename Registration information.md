@@ -8,7 +8,7 @@
 |6|2026/2/27 00:03:50|Rare Atom|等待付款Awaiting payment|
 |7|2026/2/27 00:04:37|Chinggis warriors|等待付款Awaiting payment|
 |8|2026/2/27 00:06:05|Unsettled Resentment|等待付款Awaiting payment|
-|9|2026/2/27 00:13:02|Nextvoid|等待付款Awaiting payment|
+|9|2026/2/27 00:13:02|Nexvoid|等待付款Awaiting payment|
 |10|2026/2/27 00:17:23|BoringPlayer|等待付款Awaiting payment|
 |11|2026/2/27 00:32:28|Morningstar|注册成功registered successfully|
 |12|2026/2/27 00:33:37|FENGDA Gaming|注册成功registered successfully|
