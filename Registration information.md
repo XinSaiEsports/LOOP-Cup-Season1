@@ -11,7 +11,7 @@
 |9|2026/2/27 00:13:02|Nextvoid|等待付款Awaiting payment|
 |10|2026/2/27 00:17:23|BoringPlayer|等待付款Awaiting payment|
 |11|2026/2/27 00:32:28|Morningstar|注册成功registered successfully|
-|12|2026/2/27 00:33:37|FENGDA Gaming|等待付款Awaiting payment|
+|12|2026/2/27 00:33:37|FENGDA Gaming|注册成功registered successfully|
 |13|2026/2/27 02:47:48|DQZS|等待付款Awaiting payment|
 |14|2026/2/27 09:31:46|TEAM XDM|等待付款Awaiting payment|
 |15|2026/2/27 10:18:05|Walk the Talk|等待付款Awaiting payment|
