@@ -13,7 +13,7 @@
 |11|2026/2/27 00:32:28|Morningstar|注册成功registered successfully|
 |12|2026/2/27 00:33:37|FENGDA Gaming|注册成功registered successfully|
 |13|2026/2/27 02:47:48|DQZS|注册成功registered successfully|
-|14|2026/2/27 09:31:46|TEAM XDM|等待付款Awaiting payment|
+|14|2026/2/27 09:31:46|TEAM XDM|注册成功registered successfully|
 |15|2026/2/27 10:18:05|Walk the Talk|注册成功registered successfully|
 |16|2026/2/27 17:42:39|LastBullet|注册成功registered successfully|
 |替补Backup 1|2026/2/27 19:33:02|The Huns|等待付款Awaiting payment|
