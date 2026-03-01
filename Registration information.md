@@ -16,7 +16,7 @@
 |13|2026/2/27 09:31:46|TEAM XDM|注册成功registered successfully|
 |14|2026/2/27 10:18:05|Walk the Talk|注册成功registered successfully|
 |15|2026/2/27 17:42:39|LastBullet|注册成功registered successfully|
-||~~2026/2/27 19:33:02~~|~~The Huns~~|~~注册失败（未付款）Registration failed (unpaid)~~|
-|16|2026/2/27 22:03:27|SHPL|等待付款Awaiting payment
-|替补Backup 1|2026/2/28 00:03:28|magic caps|等待付款Awaiting payment
-|替补Backup 2|2026/2/28 01:02:37|1Wof6|等待付款Awaiting payment
+|16|2026/2/27 19:33:02|The Huns|注册成功registered successfully|
+|替补Backup 1|2026/2/27 22:03:27|SHPL|等待付款Awaiting payment
+|替补Backup 2|2026/2/28 00:03:28|magic caps|等待付款Awaiting payment
+|替补Backup 3|2026/2/28 01:02:37|1Wof6|等待付款Awaiting payment
